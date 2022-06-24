@@ -1,8 +1,4 @@
-@media (max-width: 741px) {
-  .hover-squares {
-    width: 100%;
-  }
-}
+
 .hover-squares {
   width: 350px;
   height: 600px;
@@ -52,5 +48,10 @@
       border-right: 0;
       background-color: #38404d;
     }
+  }
+}
+@media (max-width: 741px) {
+  .hover-squares {
+    width: 100%;
   }
 }
